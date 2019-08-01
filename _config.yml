@@ -1,8 +1,7 @@
-title: Hello, world! I'm David Freeman
+title: Hey there! I'm Arnau Lacambra
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Arnau Lacambra Torres website.
+  Hey there! If you want to see some cool projects, enter! It's free of Java!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
